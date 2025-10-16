@@ -19,6 +19,16 @@ I'm a passionate **Junior Frontend Developer** currently **graduating in Softwar
 
 ---
 
+## 📚 Currently Learning
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+I'm currently studying **C programming** at university! 🎓 You can follow my learning journey and see everything I'm learning in my repository:
+
+🔗 **[aprendendoC](https://github.com/Andradev/aprendendoC)** - My C programming learning repository where I document all my progress and exercises!
+
+---
+
 ## 🌟 Featured Projects
 
 ### 🏀 [Basketball Scoreboard](https://github.com/Andradev/basketball-scoreboard)
@@ -53,7 +63,7 @@ When I'm not coding, you'll find me:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andradev&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Andradev&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Andradev&layout=compact&theme=radical&langs_count=8&hide_border=true&exclude_repo=aprendendoC)
 
 </div>
 
