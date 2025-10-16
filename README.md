@@ -49,7 +49,7 @@ When I'm not coding, you'll find me:
 
 <div align="center">
   
-![Andradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Andradev]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Andradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andradev&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andradev&theme=radical)
 
