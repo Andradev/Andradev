@@ -62,7 +62,7 @@ When I'm not coding, you'll find me:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andradev&theme=radical)
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andradev&layout=compact&theme=radical"/>
 
 ---
 
