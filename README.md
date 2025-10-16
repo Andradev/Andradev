@@ -43,7 +43,6 @@ A modern application showcasing clean UI and functionality
 
 When I'm not coding, you'll find me:
 - 🎨 **Designing banners** for my church's social media — I love creating impactful visuals that make people say *"Wow, this is different!"*
-- 🏀 Enjoying basketball and staying active
 - 💡 Always looking for creative ways to solve problems and make a difference
 
 ---
@@ -62,8 +61,6 @@ When I'm not coding, you'll find me:
 ![Andradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andradev&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andradev&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Andradev&layout=compact&theme=radical&langs_count=8&hide_border=true&exclude_repo=aprendendoC)
 
 </div>
 
