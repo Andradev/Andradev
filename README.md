@@ -2,7 +2,7 @@
 
 ### 🚀 Junior Frontend Developer | Problem Solver | Creative Designer
 
-I'm a passionate **Junior Frontend Developer** currently **graduating in Software Engineering** 🎓. I love learning new technologies and solving problems. There's nothing more rewarding than helping someone bring their vision to life through code — when they see the screen I've built and say *"This is exactly what I was thinking!"* — that's pure happiness for me! 😊
+I'm a **Junior Frontend Developer** currently **graduating in Software Engineering** 🎓. I love learning new technologies and solving problems. There's nothing more rewarding than helping someone bring their vision to life through code — when they see the screen I've built and say *"This is exactly what I was thinking!"* — that's pure happiness for me! 😊
 
 ---
 
