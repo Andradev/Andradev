@@ -25,7 +25,7 @@ I'm a **Junior Frontend Developer** currently **graduating in Software Engineeri
 
 I'm currently studying **C programming** at university! 🎓 You can follow my learning journey and see everything I'm learning in my repository:
 
-🔗 **[aprendendoC](https://github.com/Andradev/aprendendoC)** - My C programming learning repository where I document all my progress and exercises!
+🔗 **[learningC](https://github.com/Andradev/learningC)** - My C programming learning repository where I document all my progress and exercises!
 
 ---
 
