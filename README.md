@@ -42,7 +42,7 @@ A modern application showcasing clean UI and functionality
 ## 🎨 Beyond Code
 
 When I'm not coding, you'll find me:
-- 🎨 **Designing banners** for my church's social media — I love creating impactful visuals that make people say *"Wow, this is different!"*
+- 🎨 **Designing banners** for my church's social media — I love creating impactful visuals that make people say *"Wow, this is different and beautiful!"*
 - 💡 Always looking for creative ways to solve problems and make a difference
 
 ---
