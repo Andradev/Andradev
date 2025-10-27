@@ -58,9 +58,9 @@ When I'm not coding, you'll find me:
 
 <div align="center">
   
-![Andradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andradev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Andradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andradev&show_icons=true&theme=react&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andradev&layout=compact&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andradev&layout=compact&theme=react"/>
 
 ---
 
