@@ -19,16 +19,6 @@ I'm a **Junior Frontend Developer** currently **graduating in Software Engineeri
 
 ---
 
-## 📚 Currently Learning
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-I'm currently studying **C programming** at university! 🎓 You can follow my learning journey and see everything I'm learning in my repository:
-
-🔗 **[learningC](https://github.com/Andradev/learningC)** - My C programming learning repository where I document all my progress and exercises!
-
----
-
 ## 🌟 Featured Projects
 
 ### 🏀 [Basketball Scoreboard](https://github.com/Andradev/basketball-scoreboard)
