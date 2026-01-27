@@ -27,6 +27,8 @@ An interactive basketball scoreboard app built with React
 ### 📱 [Normatic App](https://github.com/Andradev/normatic-app)
 A modern application showcasing clean UI and functionality
 
+---
+
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gabriel-barbosa-de-andrade-b29331309/)
