@@ -1,41 +1,49 @@
-# 👋 Hi, I'm Victor Gabriel (Andradev)
+<div align="center">
 
-### 🚀 Junior Frontend Developer | Problem Solver | Creative Designer
+# 👋 Hey there, I'm Victor Gabriel (*Andradev*)
 
-I'm a **Junior Frontend Developer** currently **graduating in Software Engineering** 🎓. I love learning new technologies and solving problems. There's nothing more rewarding than helping someone bring their vision to life through code — when they see the screen I've built and say *"This is exactly what I was thinking!"* — that's pure happiness for me! 😊
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;Problem+Solver;Creative+Designer;Software+Engineering+Student)](https://git.io/typing-svg)
 
----
+*“I don't just write code — I create solutions that people love!”* ✨
 
-## 💻 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 🌟 Featured Projects
-
-### 🏀 [Basketball Scoreboard](https://github.com/Andradev/basketball-scoreboard)
-An interactive basketball scoreboard app built with React
-
-### 📱 [Normatic App](https://github.com/Andradev/normatic-app)
-A modern application showcasing clean UI and functionality
+### 👨‍💻 A little about me...
+I'm a **Junior Frontend Developer** currently graduating in **Software Engineering** 🎓. I love learning new technologies and solving problems. There's nothing more rewarding than helping someone bring their vision to life through code — when they see the screen I've built and say *"This is exactly what I was thinking!"* — that's pure happiness for me! 😊
 
 ---
 
-## 📫 Let's Connect!
+### 🛠️ Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,git,github&theme=dark&perline=8" alt="My Skills" />
+  </a>
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| 🏀 [Basketball Scoreboard](https://github.com/Andradev/basketball-scoreboard) | 📱 [Normatic App](https://github.com/Andradev/normatic-app) |
+| :--- | :--- |
+| An interactive basketball scoreboard app built with React. | A modern application showcasing clean UI and functionality. |
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+⭐️ *Feel free to explore my repositories and reach out if you'd like to collaborate!* <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gabriel-barbosa-de-andrade-b29331309/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgb.andrade@gmail.com)
 
----
+<br>
 
-### 💬 *"I don't just write code — I create solutions that people love!"*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=100&section=footer" width="100%"/>
 
-⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate!
+</div>
