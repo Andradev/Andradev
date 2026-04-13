@@ -36,16 +36,6 @@ A modern application showcasing clean UI and functionality
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Andradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andradev&show_icons=true&theme=react&include_all_commits=true&count_private=true)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andradev&layout=compact&theme=react"/>
-
----
-
 ### 💬 *"I don't just write code — I create solutions that people love!"*
 
 ⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate!
