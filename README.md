@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Victor Gabriel (*Andradev*)
+# 👋 Hello World, I'm Victor Gabriel (*Andradev*)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;Problem+Solver;Creative+Designer;Software+Engineering+Student)](https://git.io/typing-svg)
 
