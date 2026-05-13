@@ -2,7 +2,7 @@
 
 # 👋 Hello World, I'm Victor Andrade (*Andradev*)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;Problem+Solver;Creativ[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;Problem+Solver;Creative+Designer;Software+Engineering+Student)](https://git.io/typing-svg)
 
 *“I don't just write code — I create solutions that people love!”* ✨
 
@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 A little about me...
-I'm a **Junior Frontend Developer** currently graduating in **Software Engineering** 🎓. I love learning new technologies and solving problems. There's nothing more rewarding than helping someon[...]
+I'm a **Junior Frontend Developer** currently graduating in **Software Engineering** 🎓. I love learning new technologies and solving problems. There's nothing more rewarding than helping someone bring their vision to life through code — when they see the screen I've built and say *"This is exactly what I was thinking!"* — that's pure happiness for me! 😊
 
 ---
 
