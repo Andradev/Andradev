@@ -2,7 +2,7 @@
 
 # 👋 Hello World, I'm Victor Andrade (*Andradev*)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;Problem+Solver;Creative+Designer;Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;Problem+Solver;Creativ[...]
 
 *“I don't just write code — I create solutions that people love!”* ✨
 
@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 A little about me...
-I'm a **Junior Frontend Developer** currently graduating in **Software Engineering** 🎓. I love learning new technologies and solving problems. There's nothing more rewarding than helping someone bring their vision to life through code — when they see the screen I've built and say *"This is exactly what I was thinking!"* — that's pure happiness for me! 😊
+I'm a **Junior Frontend Developer** currently graduating in **Software Engineering** 🎓. I love learning new technologies and solving problems. There's nothing more rewarding than helping someon[...]
 
 ---
 
@@ -27,9 +27,9 @@ I'm a **Junior Frontend Developer** currently graduating in **Software Engineeri
 
 ### 🚀 Featured Projects
 
-| 🏀 [Basketball Scoreboard](https://github.com/Andradev/basketball-scoreboard) | 📱 [Normatic App](https://github.com/Andradev/normatic-app) |
+| 🧠 [Second Brain](https://github.com/Andradev/second-brain) | 📱 [Normatic App](https://github.com/Andradev/normatic-app) |
 | :--- | :--- |
-| An interactive basketball scoreboard app built with React. | A modern application showcasing clean UI and functionality. |
+| A personal **second brain** to capture, connect, and retrieve knowledge. Built from the **Wiki LLM** concept by Andrej Karpathy — feel free to **use it**, and if you have ideas, **improve it** and contribute! | A modern application showcasing clean UI and functionality. |
 
 ---
 
