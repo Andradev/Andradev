@@ -11,7 +11,10 @@
 ---
 
 ### 👨‍💻 A little about me...
-I'm a **Junior Frontend Developer** currently graduating in **Software Engineering** 🎓. I love learning new technologies and solving problems. There's nothing more rewarding than helping someone bring their vision to life through code — when they see the screen I've built and say *"This is exactly what I was thinking!"* — that's pure happiness for me! 😊
+I'm Victor Andrade, a Junior Frontend Developer and Software Engineering student from Brazil.
+I enjoy building clean, useful and human-centered web applications using technologies like React, TypeScript, Tailwind CSS and modern frontend tools.
+I'm currently improving my foundations in JavaScript, frontend architecture and full-stack development, while working on real projects such as personal knowledge systems, business applications and practical web solutions.
+For me, coding is not just about writing screens — it's about understanding problems, creating better experiences and turning ideas into products people can actually use.
 
 ---
 
