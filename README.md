@@ -35,7 +35,6 @@ For me, coding is not just about writing screens — it's about understanding pr
 ### 📚 Currently Learning
 
 - Frontend architecture with React and TypeScript
-- JavaScript fundamentals and clean code practices
 - Full-stack development concepts
 
 ---
