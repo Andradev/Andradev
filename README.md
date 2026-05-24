@@ -2,9 +2,9 @@
 
 # 👋 Hello World, I'm Victor Andrade (*Andradev*)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;Problem+Solver;Creative+Designer;Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;React+%26+TypeScript;UI-Focused+Developer;Software+Engineering+Student)](https://git.io/typing-svg)
 
-*“I don't just write code — I create solutions that people love!”* ✨
+*“I don't just write code — I build solutions people can actually use.”* ✨
 
 </div>
 
@@ -32,11 +32,19 @@ For me, coding is not just about writing screens — it's about understanding pr
 
 ---
 
+### 📚 Currently Learning
+
+- Frontend architecture with React and TypeScript
+- JavaScript fundamentals and clean code practices
+- Full-stack development concepts
+
+---
+
 ### 🚀 Featured Projects
 
 | 🧠 [Second Brain](https://github.com/Andradev/second-brain) | 📱 [Normatic App](https://github.com/Andradev/normatic-app) |
 | :--- | :--- |
-| A personal **second brain** to capture, connect, and retrieve knowledge. Built from the **Wiki LLM** concept by Andrej Karpathy — feel free to **use it**, and if you have ideas, **improve it** and contribute! | A modern application showcasing clean UI and functionality. |
+| A personal **second brain** to capture, connect and retrieve knowledge, inspired by the **LLM Wiki** concept by Andrej Karpathy. | A web application project focused on organizing and simplifying business workflows with a clean and practical user interface. |
 
 ---
 
