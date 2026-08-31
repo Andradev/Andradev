@@ -14,9 +14,7 @@
 
 I'm Victor Andrade, a Junior Frontend Developer and Software Engineering student from Brazil.
 
-I enjoy building clean, useful and human-centered web applications using technologies like React, TypeScript, Tailwind CSS and modern frontend tools.
-
-I'm currently improving my foundations in JavaScript, frontend architecture and full-stack development, while working on real projects such as personal knowledge systems, business applications and practical web solutions.
+I enjoy building clean, useful and human-centered web applications.
 
 For me, coding is not just about writing screens — it's about understanding problems, creating better experiences and turning ideas into products people can actually use.
 
@@ -29,14 +27,6 @@ For me, coding is not just about writing screens — it's about understanding pr
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,git,github&theme=dark&perline=8" alt="My Skills" />
   </a>
 </div>
-
----
-
-### 📚 Currently Learning
-
-- Frontend architecture with React and TypeScript
-- JavaScript fundamentals and clean code practices
-- Full-stack development concepts
 
 ---
 
