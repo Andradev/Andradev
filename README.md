@@ -12,7 +12,7 @@
 
 ### 👨‍💻 A little about me...
 
-I'm Victor Andrade, a Junior Frontend Developer and Software Engineering student from Brazil.
+I'm Victor Andrade, a Frontend Developer and Software Engineering student from Brazil.
 
 I enjoy building clean, useful and human-centered web applications.
 
