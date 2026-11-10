@@ -14,8 +14,6 @@
 
 I'm Victor Andrade, a Frontend Developer and Software Engineering student.
 
-I enjoy building clean, useful and human-centered web applications.
-
 For me, coding is not just about writing screens — it's about understanding problems, creating better experiences and turning ideas into products people can actually use.
 
 ---
